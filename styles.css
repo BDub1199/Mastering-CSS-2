@@ -1,0 +1,17 @@
+h1 {
+    text-align:center;
+    text-shadow: 2px 2px gray;
+
+}
+h4 {
+    font-weight:bolder;
+}
+h5 {
+    line-height: 1.5em;
+    font-family: Arial, black;
+    font-weight: bold;
+}
+p {
+    line-height: 1.5em;
+    font-family: Times New Roman;
+}
